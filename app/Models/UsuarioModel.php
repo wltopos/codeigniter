@@ -26,9 +26,9 @@ class UsuarioModel extends Model
     // Dates
     protected $useTimestamps = true;
     protected $dateFormat    = 'datetime';
-    protected $createdField  = 'created_em';
-    protected $updatedField  = 'updated_em';
-    protected $deletedField  = 'deleted_em';
+    protected $createdField  = 'criado_em';
+    protected $updatedField  = 'atualizado_em';
+    protected $deletedField  = 'deletado_em';
 
     // Validation
     protected $validationRules      = [];
