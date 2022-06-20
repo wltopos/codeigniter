@@ -10,3 +10,19 @@ in APPPATH\Views\Home\index.php on line 5.
  8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
 10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-06-20 05:21:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password_hash` VARCHAR(240) NOT NULL,
+	`reset_hash` VARCHAR(80) NULL' at line 4
+ERROR - 2022-06-20 05:22:38 --> Can't create database 'sistema'; database exists
+ERROR - 2022-06-20 05:23:18 --> Can't create database 'sistema'; database exists
+ERROR - 2022-06-20 05:23:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ERROR - 2022-06-20 05:24:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password_hash` VARCHAR(240) NOT NULL,
+	`reset_hash` VARCHAR(80) NULL' at line 4
+ERROR - 2022-06-20 05:34:32 --> Can't create database 'sistema'; database exists
+ERROR - 2022-06-20 05:34:36 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password_hash` VARCHAR(240) NOT NULL,
+	`reset_hash` VARCHAR(80) NULL' at line 4
+ERROR - 2022-06-20 05:36:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NOT NULL,
+	`password_hash` VARCHAR(240) NOT NULL,
+	`reset_hash` VARCHAR(80) NULL' at line 4

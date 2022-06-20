@@ -11,7 +11,7 @@ class CriaTabelaUsuarios extends Migration
         $this->forge->addField([
                 'id'    => [
                     'type' => 'INT',
-                    'constaint' => 5,
+                    'constraint' => 5,
                     'unsigned' => true,
                     'auto_increment' => true,
                 ],
@@ -21,7 +21,7 @@ class CriaTabelaUsuarios extends Migration
                 ],
                 'email'     => [
                     'type'  =>'VARCHAR',
-                'constrait' => 240,
+                'constraint' => 240,
                 ],
                 'password_hash'     =>[
                     'type' => 'VARCHAR',
@@ -30,7 +30,7 @@ class CriaTabelaUsuarios extends Migration
                 'reset_hash'    =>[
                     'type'  => 'VARCHAR',
                     'constraint' => 80,
-                    'nyll' => true,
+                    'null' => true,
                     'default' => null,
                 ],
                 'reset_espira_em' =>[
