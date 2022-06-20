@@ -1,4 +1,4 @@
-# CodeIgniter 4 Development
+# Sistema de Controle de Loja - SCL
 
 [![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](#)
 [![Coverage Status](https://coveralls.io/repos/github/codeigniter4/CodeIgniter4/badge.svg?branch=develop)](#)
