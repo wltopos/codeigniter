@@ -47,7 +47,9 @@ Made with [contrib.rocks](https://contrib.rocks).
 ## Server Requirements
 
 PHP version 7.4 or higher is required, with the following extensions installed:
-
+* PHP >= 7.3
+* MySQL
+* Composer
 
 - [intl](http://php.net/manual/en/intl.requirements.php)
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
@@ -58,5 +60,18 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - xml (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
+
+### Frameworks/Bibliotecas
+* [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
+* [twbs/bootstrap](https://github.com/twbs/bootstrap)
+* [jquery/jquery](https://github.com/jquery/jquery)
+* [jquery/jquery-ui](https://github.com/jquery/jquery-ui)
+* [mpdf/mpdf](https://github.com/mpdf/mpdf)
+* [Matrix Admin](http://wrappixel.com/demos/free-admin-templates/matrix-admin/index.html)
+* [filp/whoops](https://github.com/filp/whoops)
+
+## Autor
+| [<img src="https://avatars.githubusercontent.com/u/49371821?s=400&u=051063e0b96decf361fb8a9fc04589927efc7f8b&v=4"><br><sub>Ramon Silva</sub>](https://github.com/lrochawl) |
+| :---: |
 
 
