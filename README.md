@@ -66,7 +66,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 * [filp/whoops](https://github.com/filp/whoops)
 
 ## Autor
-| [<img src="https://avatars.githubusercontent.com/u/49371821?s=400&u=051063e0b96decf361fb8a9fc04589927efc7f8b&v=4"><br><sub>Ramon Silva</sub>](https://github.com/lrochawl) |
+| [<img src="https://avatars.githubusercontent.com/u/49371821?s=400&u=051063e0b96decf361fb8a9fc04589927efc7f8b&v=4"><br><sub>Lucas Rocha</sub>](https://github.com/lrochawl) |
 | :---: |
 
 
